@@ -4,5 +4,7 @@ A Django web app that's designed as a Wikipedia-like online encyclopedia.
 
 <img width="1385" alt="Screenshot 2024-11-27 at 12 42 27 AM" src="https://github.com/user-attachments/assets/3a813f40-56eb-4f70-8226-d5afd98ae66e">
 
+<img width="1386" alt="Screenshot 2024-11-27 at 12 44 46 AM" src="https://github.com/user-attachments/assets/52a47740-6597-4414-8381-7a302b593409">
+
 <img width="1385" alt="Screenshot 2024-11-27 at 12 42 49 AM" src="https://github.com/user-attachments/assets/cae975c8-2f55-4455-bce6-3140fc0f912b">
 
